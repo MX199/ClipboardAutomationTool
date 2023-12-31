@@ -1,4 +1,4 @@
-# Clipboard Sender App
+# Clipboard Automation Tool
 
 This application allows you to send copied text with a hotkey. It's especially useful if you don't have the option to copy and paste.
 
