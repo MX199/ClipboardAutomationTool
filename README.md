@@ -5,12 +5,9 @@ This application allows you to send copied text with a hotkey. It's especially u
 ## Features
 
 - Send copied text with a hotkey
-- Change the hotkey through the settings
-- Save the hotkey to a configuration file
-
 ## Installation
 
 1. Install the required Python packages:
 
 ```bash
-pip install tkinter threading keyboard time pyperclip json
+pip install keyboard pyautogui pyperclip
