@@ -10,4 +10,4 @@ This application allows you to send copied text with a hotkey. It's especially u
 1. Install the required Python packages:
 
 ```bash
-pip install keyboard pyautogui pyperclip
+pip install keyboard pyautogui pyperclip tkinter
